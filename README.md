@@ -1,13 +1,13 @@
-# Local Vendor Service Marketplace Web App
+# Local Vendor Food Ordering Web App
 
 ## Overview
-This web application is a service marketplace, similar to **Zomato** and **Swiggy**, but tailored for local vendors offering a variety of services. Users can browse and order services such as food delivery, home cleaning, repairs, and more. The platform is built using **HTML**, **CSS**, **PHP**, and **MySQL** to provide a seamless and responsive online experience for both vendors and customers.
+This web application is a food ordering marketplace, similar to **Zomato** and **Swiggy**, tailored for local vendors. Users can browse and order food from various vendors in their area. The platform is built using **HTML**, **CSS**, **PHP**, and **MySQL** to provide a seamless and responsive online experience for both vendors and customers.
 
 ## Features
-- **Vendor Registration**: Local vendors can sign up, create a profile, and list their services on the platform.
-- **Service Browsing**: Users can browse services based on categories such as food delivery, cleaning, repair, etc.
-- **Real-time Order Management**: Vendors can manage incoming orders, and users can track the status of their orders.
-- **User Reviews and Ratings**: Customers can leave reviews and ratings for the services they book.
+- **Vendor Registration**: Local food vendors can sign up, create a profile, and list their food offerings on the platform.
+- **Menu Browsing**: Users can browse menus based on categories such as cuisine type, popularity, and more.
+- **Real-time Order Management**: Vendors can manage incoming food orders, and users can track the status of their orders.
+- **User Reviews and Ratings**: Customers can leave reviews and ratings for the food they order.
 - **Payment Integration**: Secure payment gateway integration for easy payments.
 - **Responsive Design**: Optimized for both desktop and mobile viewing.
 
@@ -17,7 +17,7 @@ This web application is a service marketplace, similar to **Zomato** and **Swigg
   - **CSS3**: For designing and styling the UI.
 - **Backend**:
   - **PHP**: For server-side scripting and handling dynamic content.
-  - **MySQL**: Database used for storing user and vendor information, orders, and service details.
+  - **MySQL**: Database used for storing user and vendor information, orders, and menu details.
 - **Additional Libraries**:
   - **JavaScript**: For interactive elements (optional, based on your use).
   - **AJAX**: For real-time updates (optional).
