@@ -29,25 +29,25 @@ This web application is a service marketplace, similar to **Zomato** and **Swigg
 ### Screenshots
 
 <p align="center">
-  <img src="Fixit.png" alt="Home Screen"/>
+  <img src="/image/signup.png" alt="Home Screen"/>
 </p>
 <br><br>
 <p align="center">
-  <img src="Fixit.png" alt="Home Screen"/>
-</p>
-<br><br>
-
-<p align="center">
-  <img src="Fixit.png" alt="Home Screen"/>
+  <img src="/image/home_page.png" alt="Home Screen"/>
 </p>
 <br><br>
 
 <p align="center">
-  <img src="Fixit.png" alt="Home Screen"/>
+  <img src="/image/home_page2.png" alt="Home Screen"/>
+</p>
+<br><br>
+
+<p align="center">
+  <img src="/image/payment.png" alt="Home Screen"/>
 </p>
 
 <br><br>
 <p align="center">
-  <img src="Fixit.png" alt="Home Screen"/>
+  <img src="/image/vendor.png" alt="Home Screen"/>
 </p>
 
